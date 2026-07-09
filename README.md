@@ -2,7 +2,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" alt="Coding Animation" width="100%">
 </p>
 
-# Hi there, I'm Sajjad Ali Jatoi 👋
+# Hi there, I'm Sajjad Hussain Jatoi 👋
 
 I am a **Generative AI Specialist & Prompt Engineer** passionate about creating intelligent solutions, modern web experiences, and AI-powered applications.
 
